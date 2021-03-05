@@ -17,6 +17,7 @@ const App=()=>{
     {setNum(num-1);}
     else{
       alert("limit cross")
+      alert("set limit")
     }
   }
 
